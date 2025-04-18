@@ -1,4 +1,4 @@
-# 🚒 ResQBot – Autonomous Fire Response Rover
+# 🚒 Fire-Detection-and-Fighting-Robot-System – Autonomous Fire Response Rover
 
 **ResQBot** is a two-part embedded system designed to detect indoor fires and autonomously dispatch a robotic vehicle to suppress them. It is composed of:
 
@@ -36,7 +36,7 @@ Wireless communication between both units is established using an **ESP-01 WiFi 
 
 ### 📁 Folder Structure
 ```
-ResQBot/
+Fire-Detection-and-Fighting-Robot-System/
 ├── room/                     # ESP32 fire detection system
 │   ├── src/
 │   ├── lib/
