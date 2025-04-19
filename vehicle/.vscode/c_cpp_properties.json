@@ -1,0 +1,74 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "/Users/minindupasan/Documents/GitHub/Smart Fire Vehicle/vehicle/include",
+                "/Users/minindupasan/Documents/GitHub/Smart Fire Vehicle/vehicle/src",
+                "/Users/minindupasan/Documents/GitHub/Smart Fire Vehicle/vehicle/.pio/libdeps/megaatmega2560/WiFiEsp/src",
+                "/Users/minindupasan/Documents/GitHub/Smart Fire Vehicle/vehicle/.pio/libdeps/megaatmega2560/Servo/src",
+                "/Users/minindupasan/Documents/GitHub/Smart Fire Vehicle/vehicle/.pio/libdeps/megaatmega2560/Adafruit MPU6050",
+                "/Users/minindupasan/Documents/GitHub/Smart Fire Vehicle/vehicle/.pio/libdeps/megaatmega2560/Adafruit Unified Sensor",
+                "/Users/minindupasan/Documents/GitHub/Smart Fire Vehicle/vehicle/.pio/libdeps/megaatmega2560/Adafruit BusIO",
+                "/Users/minindupasan/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "/Users/minindupasan/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "/Users/minindupasan/Documents/GitHub/Smart Fire Vehicle/vehicle/.pio/libdeps/megaatmega2560/SoftwareSerial",
+                "/Users/minindupasan/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "/Users/minindupasan/.platformio/packages/framework-arduino-avr/variants/mega",
+                "/Users/minindupasan/Documents/GitHub/Smart Fire Vehicle/vehicle/.pio/libdeps/megaatmega2560/Adafruit GFX Library",
+                "/Users/minindupasan/Documents/GitHub/Smart Fire Vehicle/vehicle/.pio/libdeps/megaatmega2560/Adafruit SSD1306",
+                "/Users/minindupasan/Documents/GitHub/Smart Fire Vehicle/vehicle/.pio/libdeps/megaatmega2560/Unity/src",
+                "/Users/minindupasan/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "/Users/minindupasan/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "/Users/minindupasan/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/Users/minindupasan/Documents/GitHub/Smart Fire Vehicle/vehicle/include",
+                    "/Users/minindupasan/Documents/GitHub/Smart Fire Vehicle/vehicle/src",
+                    "/Users/minindupasan/Documents/GitHub/Smart Fire Vehicle/vehicle/.pio/libdeps/megaatmega2560/WiFiEsp/src",
+                    "/Users/minindupasan/Documents/GitHub/Smart Fire Vehicle/vehicle/.pio/libdeps/megaatmega2560/Servo/src",
+                    "/Users/minindupasan/Documents/GitHub/Smart Fire Vehicle/vehicle/.pio/libdeps/megaatmega2560/Adafruit MPU6050",
+                    "/Users/minindupasan/Documents/GitHub/Smart Fire Vehicle/vehicle/.pio/libdeps/megaatmega2560/Adafruit Unified Sensor",
+                    "/Users/minindupasan/Documents/GitHub/Smart Fire Vehicle/vehicle/.pio/libdeps/megaatmega2560/Adafruit BusIO",
+                    "/Users/minindupasan/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "/Users/minindupasan/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "/Users/minindupasan/Documents/GitHub/Smart Fire Vehicle/vehicle/.pio/libdeps/megaatmega2560/SoftwareSerial",
+                    "/Users/minindupasan/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "/Users/minindupasan/.platformio/packages/framework-arduino-avr/variants/mega",
+                    "/Users/minindupasan/Documents/GitHub/Smart Fire Vehicle/vehicle/.pio/libdeps/megaatmega2560/Adafruit GFX Library",
+                    "/Users/minindupasan/Documents/GitHub/Smart Fire Vehicle/vehicle/.pio/libdeps/megaatmega2560/Adafruit SSD1306",
+                    "/Users/minindupasan/Documents/GitHub/Smart Fire Vehicle/vehicle/.pio/libdeps/megaatmega2560/Unity/src",
+                    "/Users/minindupasan/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "/Users/minindupasan/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "/Users/minindupasan/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60118",
+                "ARDUINO_AVR_MEGA2560",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega2560__",
+                ""
+            ],
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++11",
+            "compilerPath": "/Users/minindupasan/.platformio/packages/toolchain-atmelavr/bin/avr-gcc",
+            "compilerArgs": [
+                "-mmcu=atmega2560",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
